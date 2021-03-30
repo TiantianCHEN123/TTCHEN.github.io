@@ -5,6 +5,7 @@
 
 🏫No.37 Xueyuan Road, Haidian District, Beijing, P.R. China, 100191　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📞+8618334549775　📧<chen123@buaa.edu.cn>
 
+***
 
 ## **Education**
 **Beihang University (BUAA)**　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Beijing, China
