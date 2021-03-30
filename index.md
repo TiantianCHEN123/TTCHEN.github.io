@@ -1,7 +1,7 @@
 
 # <p align="center">Tiantian CHEN</p>
 
-（HR会打印你的简历，用于在面试的时候联系，所以联系方式放到最上边会比较方便）
+<p align="center">37 Xueyuan Road, Haidian District, Beijing, P.R. China, 100191</p>
 
 - 手机：186.... （如果是外地手机，可注明。如经常关机，要写上最优联系时间）
 - Email：goodman@gmail.com （虽然我觉得QQ邮箱无所谓，不过有些技术人员比较反感，建议用G，非要用的话，不要用数字邮箱名）
