@@ -1,6 +1,8 @@
 
 #  <center>Tiantian CHEN</center>
 
+![avatar](C:\Users\86136\Pictures\khunwoo.jpg)
+
 <center>37 Xueyuan Road, Haidian District, Beijing, P.R. China, 100191</center>
 
 <center>+86 18334549775 | chen123@buaa.edu.cn</center>
