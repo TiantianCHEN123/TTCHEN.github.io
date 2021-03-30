@@ -1,7 +1,7 @@
 
 #  <center>Tiantian CHEN</center>
 
-　<div align="center">![an image](https://raw.githubusercontent.com/TiantianCHEN123/TTCHEN.github.io/gh-pages/myprofile.png#pic_center)</div>  
+　<div align="center">![an image](https://raw.githubusercontent.com/TiantianCHEN123/TTCHEN.github.io/gh-pages/myprofile.png)</div>  
 <center>37 Xueyuan Road, Haidian District, Beijing, P.R. China, 100191　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　+8618334549775|[chen123@buaa.edu.cn]</center>　
 
 
