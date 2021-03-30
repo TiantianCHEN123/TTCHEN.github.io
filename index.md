@@ -10,8 +10,8 @@
 ***
 
 ## **Education**
-**Beihang University (BUAA)**　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Beijing, China
-  Candidate for the Master’s degree in fluid mechanics　　　　　　09/2019 - Present
+**Beihang University (BUAA)**　　　　　　　　　　　　　　　　　　　　Beijing, China
+  Candidate for the Master’s degree in fluid mechanics　　　　　　　　　09/2019 - Present
 - CGPA: 3.67/4.00 ranked 2/45
 - Second-class scholarship (2019 and 2020)
 
@@ -47,7 +47,7 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 
 ## Activity and Skills
 **Activity**
--	Ｖolunteered for the orientation event in the first semester of the second year of postgraduate
+-	Volunteered for the orientation event in the first semester of the second year of postgraduate
 
 **Skills**
 
