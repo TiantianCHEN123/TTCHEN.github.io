@@ -16,11 +16,11 @@
 International Exchange Program for Outstanding Undergraduates　　　　　　　　　　　　　　　　　　　　　　　　　 01/2019 - 07/2019
 
 **Northwestern Polytechnical University**　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Xi’an, China
- - 沉默王二/男/1989 
- - 专科/家里蹲大学
- - 工作年限：10年
- - 技术博客：http://www.itwanger.com 
- - Github：http://github.com/qinggee ( 有原创repo的Github帐号会极大的提升你的个人品牌  )
+Bachelor’s degree in Flight Vehicle Design and Engineering　　　　　　　　　　　　　　　　　09/2015 - 07/2019
+- Overall GPA: 3.64/4.00 ranked 5/250
+- First-class scholarship (2016)
+- Second-class scholarship (2015, 2017 and 2018)
+
 
  - 期望职位：Java 高级程序员，系统架构师
  - 期望薪资：税前月薪30k~50k，特别喜欢的公司可例外
