@@ -33,7 +33,7 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 
 　　1.　The aerodynamics of maple and ash samaras
 
-2.	The dynamic stability of maple samaras
+　　2.	The dynamic stability of maple samaras
 
 - Further study in fluid mechanics
 
