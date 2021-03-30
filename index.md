@@ -1,7 +1,7 @@
 
 #  <center>Tiantian CHEN</center>
 
-![avatar](/Users/86136/Pictures/khunwoo.jpg)
+![avatar](/C:/Users/86136/Pictureskhunwoo.jpg)
 
 <center>37 Xueyuan Road, Haidian District, Beijing, P.R. China, 100191</center>
 
