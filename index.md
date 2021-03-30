@@ -2,9 +2,11 @@
 #  <center>Curriculum Vitae</center>
 
 ## Basic Information
+
+![Aaron Swartz](https://raw.githubusercontent.com/TiantianCHEN123/TTCHEN.github.io/gh-pages/myprofile.png)
 **Tiantian CHEN**
 
-Address:　37 Xueyuan Road, Haidian District, Beijing, P.R. China, 100191　　　　　　　　　　　　　　　　　　　　　　　　　![Aaron Swartz](https://raw.githubusercontent.com/TiantianCHEN123/TTCHEN.github.io/gh-pages/myprofile.png)
+Address:　37 Xueyuan Road, Haidian District, Beijing, P.R. China, 100191　　　　　　　　　　　　　　　　　　　　　　　　　
 
 Phone:　+8618334549775
 
