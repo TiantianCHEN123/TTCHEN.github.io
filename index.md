@@ -20,7 +20,7 @@ Bachelor’s degree in Flight Vehicle Design and Engineering　　　　　　�
 - Second-class scholarship (2015, 2017 and 2018)
 
 ## Research
-（工作经历按逆序排列，最新的在最前边，按公司做一级分组，公司内按二级分组）
+
 
 ## Activity
 
