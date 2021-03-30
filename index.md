@@ -29,12 +29,11 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 ## Research
 **Postgraduate Stage**
 
-Studying in the bionic fluid mechanics laboratory in Professor Mao Sun’s group　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-Mainly focusing on:
--	The aerodynamics of maple and ash samaras
--	The dynamic stability of maple samaras
+- Studying in the bionic fluid mechanics laboratory in Professor Mao Sun’s group　　　　　　　　　　　　　　Mainly focusing on:
+1.　The aerodynamics of maple and ash samaras
+2.	The dynamic stability of maple samaras
 
-Further study in fluid mechanics
+- Further study in fluid mechanics
 
 **Undergraduate Stage**
 
