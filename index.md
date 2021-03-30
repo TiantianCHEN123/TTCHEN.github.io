@@ -1,4 +1,4 @@
-<size=7>we</font>
+<font size=4>我是变大的字</font>
 #  <center>Curriculum Vitae</center>
 
 ## Basic Information
