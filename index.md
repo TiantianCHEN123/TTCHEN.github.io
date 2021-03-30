@@ -5,7 +5,7 @@
 <p align="center">+86 18334549775 | chen123@buaa.edu.cn</p>
 
 ## Education
-  **Beihang University**　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Beijing, China
+  **Beihang University**　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Beijing, China
   
   Candidate for the Master’s degree in fluid mechanics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  09/2019 - Present
 -	Overall GPA: 3.67/4.00 ranked 2/45
