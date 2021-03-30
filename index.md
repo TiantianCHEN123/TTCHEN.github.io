@@ -1,4 +1,4 @@
-<size=7>
+<size=7></font>
 #  <center>Curriculum Vitae</center>
 
 ## Basic Information
