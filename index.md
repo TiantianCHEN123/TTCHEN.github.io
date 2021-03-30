@@ -1,7 +1,7 @@
 
 #  <center>Tiantian CHEN</center>
 
-![avatar](/C:/Users/86136/Pictureskhunwoo.jpg)
+![Aaron Swartz](raw.githubusercontent.com/TiantianCHEN123/TTCHEN.github.io/gh-pages/khunwoo.jpg)
 
 <center>37 Xueyuan Road, Haidian District, Beijing, P.R. China, 100191</center>
 
