@@ -1,7 +1,7 @@
 
 #  <center>Curriculum Vitae</center>
 
-Tiantian CHEN
+**Tiantian CHEN**
 
 37 Xueyuan Road, Haidian District, Beijing, P.R. China, 100191
 
