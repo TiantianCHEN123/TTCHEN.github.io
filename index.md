@@ -52,7 +52,9 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 **Skills**
 
 -	Language: Chinese (native), English (TOEFL: 103), German (basic)
+
 -	Software: proficient in MS Office (Word, Excel and PowerPoint), C++, MATLAB, Python (used before), CATIA, ICEM, Pointwise, Fluent and other necessary research tools 
+
 -	Interest: traveling, swimming and reading
 
 ***
