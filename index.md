@@ -11,7 +11,7 @@ Address:　37 Xueyuan Road, Haidian District, Beijing, P.R. China, 100191　　�
 
 Phone:　+8618334549775
 
-E-mail:　chen123@buaa.edu.cn
+E-mail:　[chen123@buaa.edu.cn]
 
 ## **Education**
 **Beihang University**　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Beijing, China
