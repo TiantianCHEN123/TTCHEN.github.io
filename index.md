@@ -31,7 +31,8 @@ Mainly focus on:
 
 **Undergraduate Stage**
 
-Graduation project conducted in TUBS: ‘Central loading experiments on cracking of glass surface bonded to an aluminum substrate’
+Graduation project conducted in TUBS
+- Central loading experiments on cracking of glass surface bonded to an aluminum substrate
 
 ## Activity and Skills
 **Volunteer**
