@@ -1,8 +1,8 @@
 
 #  <center>Tiantian CHEN</center>
 
-<p align="center">37 Xueyuan Road, Haidian District, Beijing, P.R. China, 100191</p>
-<p align="center">+86 18334549775 | chen123@buaa.edu.cn</p>
+<center>37 Xueyuan Road, Haidian District, Beijing, P.R. China, 100191</center>
+<center>+86 18334549775 | chen123@buaa.edu.cn</center>
 
 ## **Education**
 **Beihang University**　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Beijing, China
