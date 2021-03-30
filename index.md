@@ -1,4 +1,4 @@
-
+<font color=gray size=72>color=gray</font>
 #  <center>Curriculum Vitae</center>
 
 ## Basic Information
