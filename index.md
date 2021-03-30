@@ -29,7 +29,12 @@ Mainly focus on:
 -	The aerodynamics of maple and ash samaras
 -	The dynamic stability of maple samaras
 
+**Undergraduate Stage**
 
-## Activity
+Graduation project conducted in TUBS: ‘Central loading experiments on cracking of glass surface bonded to an aluminum substrate’
+
+## Activity and Skills
+**volunteer**
+-	Be a volunteer for the orientation event in the first semester of the second year of postgraduate
 
 ## Others
