@@ -43,7 +43,7 @@ Graduation project conducted in TUBS
 
 -	Language: Chinese (native). English (TOEFL: 103). German (basic).
 -	Software: proficient in MS Office (Word, Excel and PowerPoint), C++, Matlab, Python (used before), CATIA, ICEM, Pointwise, Fluent and other necessary research tools 
--	Interest: traveling and swimming
+-	Interest: traveling, swimming and reading
 
 ## Publications
 -	Dynamic Flight Stability in Free-falling Maple Seeds
