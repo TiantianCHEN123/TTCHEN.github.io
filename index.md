@@ -31,9 +31,9 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 
 - Studying in the bionic fluid mechanics laboratory in Professor Mao Sun’s group　　　　　　　　　　　　　　　　　　　　　　　　　　　　mainly focusing on:
 
-　　1.The aerodynamics of maple and ash samaras
+　　1. The aerodynamics of maple and ash samaras
 
-　　2.The dynamic stability of maple samaras
+　　2. The dynamic stability of maple samaras
 
 - Further taking a series of courses in fluid mechanics 
 
@@ -54,7 +54,8 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 -	Language: Chinese (native), English (TOEFL: 103), German (basic)
 
 -	Software: 
-basic softwares: proficient in MS Office (Word, Excel and PowerPoint), and other necessary research tools　　　　professional softwares: C++, MATLAB, Python (used before), CATIA, ICEM, Pointwise, Fluent 
+
+1. basic software: proficient in MS Office (Word, Excel and PowerPoint), C++, MATLAB, Python (used before), and other necessary research tools　　　　　　2. professional software: CATIA, ICEM, Pointwise, Fluent 
 
 -	Interest: traveling, swimming and reading
 
