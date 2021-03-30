@@ -16,7 +16,7 @@
 - Second-class scholarship (2019 and 2020)
 
 **Technische Universität Braunschweig (TUBS)**　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Braunschweig, Germany
-Outstanding Undergraduate International Exchange Program funded by China Scholarship Council (CSC) 　　　　　　　　　　　　　　　　
+Outstanding Undergraduate International Exchange Program funded by China Scholarship Council (CSC) 　　　　　　　　　
 01/2019 - 07/2019
 
 **Northwestern Polytechnical University**　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Xi’an, China
