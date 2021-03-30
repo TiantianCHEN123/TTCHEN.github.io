@@ -5,8 +5,12 @@
 <p align="center">+86 18334549775 | chen123@buaa.edu.cn</p>
 
 ## Education
-  **Beihang University** &nbsp; <p align="right">Beijing, China</p>
+  **Beihang University**　　　　　　　　　　　　　　　　　　　　　Beijing, China
   
+  Candidate for the Master’s degree in fluid mechanics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  09/2019 - Present
+-	Overall GPA: 3.67/4.00 ranked 2/45
+-	Second-class scholarship (2019 and 2020)
+
  - 沉默王二/男/1989 
  - 专科/家里蹲大学
  - 工作年限：10年
