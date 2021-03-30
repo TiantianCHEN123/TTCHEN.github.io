@@ -2,6 +2,7 @@
 #  <center>Tiantian CHEN</center>
 
 ![Aaron Swartz](https://raw.githubusercontent.com/TiantianCHEN123/TTCHEN.github.io/gh-pages/SY1905302%20.png)
+![](./pic.png =100x20)
 
 <center>37 Xueyuan Road, Haidian District, Beijing, P.R. China, 100191</center>
 
