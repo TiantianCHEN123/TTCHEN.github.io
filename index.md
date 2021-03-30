@@ -12,8 +12,8 @@
 - Overall GPA: 3.67/4.00 ranked 2/45
 - Second-class scholarship (2019 and 2020)
 
-**Technische Universität Braunschweig (TUBS)**　　　　　　　　  　   Braunschweig, Germany
-Outstanding Undergraduate International Exchange Program funded by China Scholarship Council (CSC)　　　　　　　    　　　              　　　　　　　　   　　    　01/2019 - 07/2019 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+**Technische Universität Braunschweig (TUBS)**　　　　　　　　　　　　Braunschweig, Germany
+Outstanding Undergraduate International Exchange Program funded by China Scholarship Council (CSC)　　　　　      　　    　　　              　　　　　　　　   　　    　01/2019 - 07/2019 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 
 
 **Northwestern Polytechnical University (NPU)**　　　　　　　　　　　　　　　　　Xi’an, China
