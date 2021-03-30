@@ -37,7 +37,9 @@ Graduation project conducted in TUBS
 ## Activity and Skills
 **Volunteer**
 -	Be a volunteer for the orientation event in the first semester of the second year of postgraduate
+
 **Skills**
+
 -	Language: Chinese (native). English (TOEFL: 103). German (basic).
 -	Software: proficient in MS Office (Word, Excel and PowerPoint), C++, Matlab, Python (used before), CATIA, ICEM, Pointwise, Fluent and other necessary research tools 
 -	Interest: traveling and swimming
