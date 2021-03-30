@@ -5,7 +5,8 @@
 <p align="center">+86 18334549775 | chen123@buaa.edu.cn</p>
 
 ## Education
-  ## Beihang University             Beijing, China
+  **Beihang University &emsp Beijing, China
+  
  - 沉默王二/男/1989 
  - 专科/家里蹲大学
  - 工作年限：10年
