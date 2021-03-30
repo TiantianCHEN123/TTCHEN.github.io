@@ -47,7 +47,7 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 
 ## Activity and Skills
 **Activity**
--	A volunteer for the orientation event in the first semester of the second year of postgraduate
+-	Ｖolunteered for the orientation event in the first semester of the second year of postgraduate
 
 **Skills**
 
