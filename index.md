@@ -55,7 +55,7 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 
 -	Software: 
 
-1. basic software: proficient in MS Office (Word, Excel and PowerPoint), C++, MATLAB, Python (used before), and other necessary research tools　　　　　　　　　2. professional software: CATIA, ICEM, Pointwise, Fluent 
+1. basic software: proficient in MS Office (Word, Excel and PowerPoint), C++, MATLAB, Python (used before), and other necessary research tools　　　　　　　　　　　　　　2. professional software: CATIA, ICEM, Pointwise, Fluent 
 
 -	Interest: traveling, swimming and reading
 
