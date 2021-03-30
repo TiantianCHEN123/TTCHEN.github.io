@@ -53,7 +53,8 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 
 -	Language: Chinese (native), English (TOEFL: 103), German (basic)
 
--	Software: proficient in MS Office (Word, Excel and PowerPoint), C++, MATLAB, Python (used before), CATIA, ICEM, Pointwise, Fluent and other necessary research tools 
+-	Software: 
+basic softwares: proficient in MS Office (Word, Excel and PowerPoint), and other necessary research tools　　　　professional softwares: C++, MATLAB, Python (used before), CATIA, ICEM, Pointwise, Fluent 
 
 -	Interest: traveling, swimming and reading
 
