@@ -35,7 +35,11 @@ Mainly focusing on:
 -	The aerodynamics of maple and ash samaras
 -	The dynamic stability of maple samaras
 
+And further study in aerodynamics
+
 **Undergraduate Stage**
+
+- Have systematically studied fluid dynamics and attended varied theoretical and experimental courses
 
 Graduation project conducted in TUBS
 - Central loading experiments on cracking of glass surface bonded to an aluminum substrate
