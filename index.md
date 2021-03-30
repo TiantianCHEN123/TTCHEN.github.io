@@ -1,6 +1,8 @@
 
 #  <center>Tiantian CHEN</center>
 
+***
+
 ![Aaron Swartz](https://raw.githubusercontent.com/TiantianCHEN123/TTCHEN.github.io/gh-pages/myprofile.png)
 
 🏫No.37 Xueyuan Road, Haidian District, Beijing, P.R. China, 100191　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📞+8618334549775　📧<chen123@buaa.edu.cn>
@@ -23,6 +25,8 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 - First-class scholarship (2016)
 - Second-class scholarship (2015, 2017 and 2018)
 
+***
+
 ## Research
 **Postgraduate Stage**
 
@@ -36,6 +40,8 @@ Mainly focusing on:
 Graduation project conducted in TUBS
 - Central loading experiments on cracking of glass surface bonded to an aluminum substrate
 
+***
+
 ## Activity and Skills
 **Activity**
 -	A volunteer for the orientation event in the first semester of the second year of postgraduate
@@ -45,6 +51,8 @@ Graduation project conducted in TUBS
 -	Language: Chinese (native). English (TOEFL: 103). German (basic).
 -	Software: proficient in MS Office (Word, Excel and PowerPoint), C++, MATLAB, Python (used before), CATIA, ICEM, Pointwise, Fluent and other necessary research tools 
 -	Interest: traveling, swimming and reading
+
+***
 
 ## Publications
 -	Dynamic Flight Stability in Free-falling Maple Seeds
