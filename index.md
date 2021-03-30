@@ -15,7 +15,7 @@
 
 **TUBS/TU Braunschweig**　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Braunschweig, Germany
 
-International Exchange Program for Outstanding Undergraduates　　　　　　　　　　　　　　　　　　　　　　　　　01/2019 - 07/2019
+International Exchange Program for Outstanding Undergraduates　　　　　　　　　　　　　　　　　　　　　　　　　 01/2019 - 07/2019
  - 沉默王二/男/1989 
  - 专科/家里蹲大学
  - 工作年限：10年
