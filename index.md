@@ -35,7 +35,7 @@ Graduation project conducted in TUBS
 - Central loading experiments on cracking of glass surface bonded to an aluminum substrate
 
 ## Activity and Skills
-**Volunteer**
+**Activity**
 -	Be a volunteer for the orientation event in the first semester of the second year of postgraduate
 
 **Skills**
