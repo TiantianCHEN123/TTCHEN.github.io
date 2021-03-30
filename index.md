@@ -3,12 +3,12 @@
 
 ![Aaron Swartz](https://raw.githubusercontent.com/TiantianCHEN123/TTCHEN.github.io/gh-pages/myprofile.png)
 
-🏫37 Xueyuan Road, Haidian District, Beijing, P.R. China, 100191　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📞+8618334549775　📧[chen123@buaa.edu.cn]
+🏫37 Xueyuan Road, Haidian District, Beijing, P.R. China, 100191　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📞+8618334549775　📧<chen123@buaa.edu.cn>
 
 
 ## **Education**
 **Beihang University (BUAA)**　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Beijing, China
-  Candidate for the Master’s degree in fluid mechanics　　　　　　　　　　　　　　　　　　　　　　　　　　　09/2019 - Present
+  Candidate for the Master’s degree in fluid mechanics　　　　　　　　　　　　　　　　　　　　09/2019 - Present
 - Overall GPA: 3.67/4.00 ranked 2/45
 - Second-class scholarship (2019 and 2020)
 
