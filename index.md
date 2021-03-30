@@ -26,6 +26,9 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 - Second-class scholarship (2015, 2017 and 2018)
 
 ## Research
+**Postgraduate Stage**
+Study in the bionic fluid mechanics laboratory in Professor Mao Sun’s group　
+Mainly focus on:
 
 
 ## Activity
