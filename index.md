@@ -39,10 +39,9 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 
 **Undergraduate Stage**
 
-Have systematically studied fluid dynamics and attended varied theoretical and experimental courses;
+- Have systematically studied fluid dynamics and attended varied theoretical and experimental courses;
 
-Graduation project conducted in TUBS:
-- Central loading experiments on cracking of glass surface bonded to an aluminum substrate
+- Graduation project conducted in TUBS:　Central loading experiments on cracking of glass surface bonded to an aluminum substrate
 
 ***
 
