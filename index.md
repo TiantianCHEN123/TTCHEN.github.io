@@ -34,7 +34,7 @@ Mainly focusing on:
 -	The aerodynamics of maple and ash samaras
 -	The dynamic stability of maple samaras
 
-Further study in aerodynamics
+Further study in fluid mechanics
 
 **Undergraduate Stage**
 
