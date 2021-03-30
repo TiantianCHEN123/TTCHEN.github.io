@@ -12,6 +12,7 @@
 -	Second-class scholarship (2019 and 2020)
 &nbsp;
 &nbsp;
+
 **TUBS/TU Braunschweig**　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Braunschweig, Germany
 
 International Exchange Program for Outstanding Undergraduates　　　　　　　　　　　　　　　　　　　　　　　　　01/2019 - 07/2019
