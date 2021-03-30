@@ -1,10 +1,12 @@
 
 #  <center>Tiantian CHEN</center>
 
-![Aaron Swartz](https://raw.githubusercontent.com/TiantianCHEN123/TTCHEN.github.io/gh-pages/myprofile.png)
+![Aaron Swartz](https://raw.githubusercontent.com/TiantianCHEN123/TTCHEN.github.io/gh-pages/myprofile.png#pic_center)
 
 <center>markdownAddress:　37 Xueyuan Road, Haidian District, Beijing, P.R. China, 100191</center>　
+
 <center>Phone:　+8618334549775</center>
+
 <center>E-mail:　[chen123@buaa.edu.cn]</center>
 
 ## **Education**
