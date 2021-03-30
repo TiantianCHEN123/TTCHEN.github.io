@@ -1,5 +1,5 @@
 
-#  <p align="center">Tiantian CHEN</p>
+#  <center>Tiantian CHEN</center>
 
 <p align="center">37 Xueyuan Road, Haidian District, Beijing, P.R. China, 100191</p>
 
