@@ -26,7 +26,7 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 
 ***
 
-## Research
+## **Research**
 **Postgraduate Stage**
 
 - Studying in the bionic fluid mechanics laboratory in Professor Mao Sun’s group　　　　　　　　　　　　　　　　　　　　　　　　　　　　mainly focusing on:
@@ -45,7 +45,7 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 
 ***
 
-## Activity and Skills
+## **Activity and Skills**
 **Activity**
 -	Volunteered for the orientation event in the first semester of the second year of postgraduate
 
@@ -61,5 +61,5 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 
 ***
 
-## Publications
+## **Publications**
 -	Dynamic Flight Stability in Free-falling Maple Seeds
