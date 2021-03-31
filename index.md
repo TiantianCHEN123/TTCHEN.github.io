@@ -2,8 +2,7 @@
 #  **<center>Tiantian CHEN</center>**
 
 ***
-[^_^]:
-      ![Aaron Swartz](https://raw.githubusercontent.com/TiantianCHEN123/TTCHEN.github.io/gh-pages/myprofile.png)
+[comment]: <> (![Aaron Swartz](https://raw.githubusercontent.com/TiantianCHEN123/TTCHEN.github.io/gh-pages/myprofile.png))
 
 ![](myprofile.png)
 
