@@ -39,7 +39,7 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 
 **Undergraduate Stage**
 
-- Have systematically studied fluid dynamics and attended varied theoretical and experimental courses
+- Have systematically studied aeronautics including fluid mechanics,  solid mechanics and flight dynamics, and attended varied theoretical and experimental courses
 
 - Graduation project conducted in TUBS:　Central loading experiments on cracking of glass surface bonded to an aluminum substrate
 
@@ -55,7 +55,7 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 
 -	Software: 
 
-　　1. basic software: proficient in MS Office, C++, MATLAB, Python (used before)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&ensp;&ensp;&ensp;&ensp;2. professional software: CATIA, ICEM, Pointwise, Fluent, and other necessary research tools
+　　1. Basic software: proficient in MS Office, C++, MATLAB, Python (used before)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&ensp;&ensp;&ensp;&ensp;2. Professional software: CATIA, ICEM, Pointwise, Fluent, and other necessary research tools
 
 -	Interest: traveling, swimming and reading
 
