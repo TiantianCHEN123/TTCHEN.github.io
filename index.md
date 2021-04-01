@@ -16,7 +16,7 @@
 - Second-class scholarship (2019 and 2020)
 
 **Technische Universität Braunschweig (TUBS)**　　　　　　　　　　　　Braunschweig, Germany
-Outstanding Undergraduate International Exchange Program funded by China Scholarship Council (CSC)　　　　　   　　　　　　　　　　　　　　　　　    　　　              　　　　　　　　 &ensp;01/2019 - 07/2019 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+Outstanding Undergraduate International Exchange Program funded by China Scholarship Council (CSC) - for undergraduation thesis　　　　　   　　　　　　　　　　　　　　　　　    　　　              　　　　　　　　 &ensp;01/2019 - 07/2019 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 
 **Northwestern Polytechnical University (NPU)**　　　　　　　　　　　　　　　　　Xi’an, China
 *B.Eng.*&ensp;in Aircraft design and engineering　　　　　　　　　　　　　　　　   &ensp;　09/2015 - 07/2019
@@ -39,7 +39,9 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 
 - Have systematically studied aeronautics including fluid mechanics,  solid mechanics and flight dynamics, and attended varied theoretical and experimental courses
 
-- Graduation project conducted in TUBS:　Central loading experiments on cracking of glass surface bonded to an aluminum substrate
+- Participated in the scientific research training project, using Python to do the identification of the aircraft system
+
+- Conducted my graduation project in TUBS:　'Central loading experiments on cracking of glass surface bonded to an aluminum substrate'
 
 ***
 
