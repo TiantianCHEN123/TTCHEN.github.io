@@ -12,7 +12,7 @@
 ## **Education**
 **Beihang University (BUAA)**　　　　　　　　　　　　　　　　　　　　　　　　　　Beijing, China
   Candidate for the Master’s degree in fluid mechanics　　　　　　　　    　　　　&ensp;09/2019 - Present
-- CGPA: 3.67/4.00 ranked 2/45
+- Overall grade: 91.58/100 ranked 3/46
 - Second-class scholarship (2019 and 2020)
 
 **Technische Universität Braunschweig (TUBS)**　　　　　　　　　　　　Braunschweig, Germany
@@ -20,7 +20,7 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 
 **Northwestern Polytechnical University (NPU)**　　　　　　　　　　　　　　　　　Xi’an, China
 *B.Eng.*&ensp;in Aircraft design and engineering　　　　　　　　　　　　　　　　   &ensp;　09/2015 - 07/2019
-- CGPA: 3.64/4.00 ranked 5/250
+- Overall grade: 91.09/100 ranked 5/250
 - First-class scholarship (2016)
 - Second-class scholarship (2015, 2017 and 2018)
 
