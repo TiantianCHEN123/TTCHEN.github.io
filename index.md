@@ -16,7 +16,7 @@
 - Second-class scholarship (2019 and 2020)
 
 **Technische Universität Braunschweig (TUBS)**　　　　　　　　　　　　Braunschweig, Germany
-Outstanding Undergraduate International Exchange Program funded by China Scholarship Council (CSC) - for undergraduation thesis　　　　　　　01/2019 - 07/2019　　　　   　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+Outstanding Undergraduate International Exchange Program funded by China Scholarship Council (CSC) - for undergraduation thesis　　　　　　　　　　　　　　　　　　　01/2019 - 07/2019　　　　   　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 
 **Northwestern Polytechnical University (NPU)**　　　　　　　　　　　　　　　　　Xi’an, China
 *B.Eng.*&ensp;in Aircraft design and engineering　　　　　　　　　　　　　　　　   &ensp;　09/2015 - 07/2019
