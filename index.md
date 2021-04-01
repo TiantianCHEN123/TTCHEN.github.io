@@ -19,7 +19,7 @@
 Outstanding Undergraduate International Exchange Program funded by China Scholarship Council (CSC) - for undergraduation thesis　　　　　　　　　　　　　　　　　　　&ensp;&ensp;&ensp;&ensp;&ensp;01/2019 - 07/2019　　　　   　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 
 **Northwestern Polytechnical University (NPU)**　　　　　　　　　　　　　　　　　Xi’an, China
-*B.Eng.*&ensp;in Aircraft design and engineering　　　　　　　　　　　　　　　　   &ensp;　09/2015 - 07/2019
+*B.Eng.*&ensp;in Aircraft design and engineering　　　　　　　　　　　　　　　　   &ensp;&ensp;　09/2015 - 07/2019
 - Overall grade: 91.09/100 ranked 5/250
 - First-class scholarship (2016)
 - Second-class scholarship (2015, 2017 and 2018)
