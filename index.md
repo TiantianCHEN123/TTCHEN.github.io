@@ -33,21 +33,21 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 
 　　1. The aerodynamics of maple and ash samaras　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&ensp;&ensp;&ensp;&ensp;2. The dynamic stability of maple samaras
 
-- Further taking a series of courses in fluid mechanics 
+- Further taking a series of courses in fluid mechanics including advanced fluid mechanics, computational fluid mechanics and various related experiments.  
 
 **Undergraduate Stage**
 
-- Have systematically studied aeronautics including fluid mechanics,  solid mechanics and flight dynamics, and attended varied theoretical and experimental courses
+- Have systematically studied aeronautics including fluid mechanics,  solid mechanics and flight dynamics, and attended varied theoretical and experimental courses.
 
-- Participated in the scientific research training project, using Python to do the identification of the aircraft system
+- Participated in the scientific research training project, using Python to do the identification of the aircraft system.
 
-- Conducted my graduation project in TUBS:　'Central loading experiments on cracking of glass surface bonded to an aluminum substrate'
+- Conducted my graduation project in TUBS:　'Central loading experiments on cracking of glass surface bonded to an aluminum substrate'.
 
 ***
 
 ## **Activity and Skills**
 **Activity**
--	Volunteered for the orientation event in the first semester of the second year of postgraduate
+-	Volunteered for the orientation event in the first semester of the second year of postgraduate.
 
 **Skills**
 
