@@ -62,4 +62,4 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 ***
 
 ## **Publications**
--	Dynamic Flight Stability in Free-falling Maple Seeds.
+-	Dynamic Flight Stability of Free-falling Maple Seeds in Autorotation.
