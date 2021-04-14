@@ -51,7 +51,7 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 
 **Skills**
 
--	Language: Chinese (native), English (TOEFL: 103).
+-	Language: Chinese (native), English (TOEFL: 103, IELTS: 6.5).
 
 -	Software: 
 
