@@ -11,7 +11,7 @@
 
 ## **Education**
 **Beihang University (BUAA)**　　　　　　　　　　　　　　　　　　　　　　　　　　Beijing, China
-  Candidate for the Master’s degree in fluid mechanics　　　　　　　　    　　　　&ensp;09/2019 - Present
+  Candidate for the Master’s degree in Fluid Mechanics　　　　　　　　    　　　　&ensp;09/2019 - Present
 - Overall grade: 91.58/100 ranked 3/46
 - Second-class scholarship (2019 and 2020)
 
@@ -19,10 +19,10 @@
 Outstanding Undergraduate International Exchange Program funded by China Scholarship Council (CSC) - for undergraduation thesis　　　　　　　　　　　　　　　　　　　&ensp;&ensp;&ensp;&ensp;&ensp;01/2019 - 07/2019　　　　   　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 
 **Northwestern Polytechnical University (NPU)**　　　　　　　　　　　　　　　　　Xi’an, China
-*B.Eng.*&ensp;in Aircraft design and engineering　　　　　　　　　　　　　　　　   &ensp;&ensp;　09/2015 - 07/2019
+*B.Eng.*&ensp;in Aircraft Design and Engineering　　　　　　　　　　　　　　　　   &ensp;&ensp;　09/2015 - 07/2019
 - Overall grade: 91.09/100 ranked 5/250
-- First-class scholarship (2016)
-- Second-class scholarship (2015, 2017 and 2018)
+- First-class scholarship (2017)
+- Second-class scholarship (2016, 2018 and 2019)
 
 ***
 
@@ -41,7 +41,7 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 
 - Participated in the scientific research training project, using Python to do the identification of the aircraft system.
 
-- Conducted my graduation project in TUBS:　'Central loading experiments on cracking of glass surface bonded to an aluminum substrate'.
+- Conducted my graduation project in TUBS:　project name: 'Central loading experiments on cracking of glass surface bonded to an aluminum substrate'.
 
 ***
 
@@ -62,4 +62,4 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 ***
 
 ## **Publications**
--	Dynamic Flight Stability of Free-falling Maple Seeds in Autorotation. (The first version of the manuscript has been submitted to the Bioinspiration & Biomimetics)
+-	Dynamic Flight Stability of Free-falling Maple Seeds in Autorotation. (The first version of the manuscript has been submitted to the *Bioinspiration & Biomimetics*)
