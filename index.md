@@ -37,7 +37,7 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 
 **Undergraduate Stage**
 
-- Have systematically studied aeronautics including fluid mechanics,  solid mechanics and flight dynamics, and attended varied theoretical and experimental courses.
+- Have systematically studied aeronautics including fluid mechanics, solid mechanics, aircraft conceptual design and flight dynamics, and attended varied theoretical and experimental courses.
 
 - Participated in the scientific research training project, using Python to do the identification of the aircraft system.
 
