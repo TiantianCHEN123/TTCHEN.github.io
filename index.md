@@ -33,7 +33,7 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 
 　　1. The aerodynamics of maple and ash samaras　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&ensp;&ensp;&ensp;&ensp;2. The dynamic stability of maple samaras
 
-- Further taking a series of courses in fluid mechanics including advanced fluid mechanics, computational fluid mechanics and various related experiments.  
+- Further taking a series of courses in fluid mechanics including advanced fluid mechanics, computational fluid mechanics, experimental fluid mechanics and various related experiments.  
 
 **Undergraduate Stage**
 
