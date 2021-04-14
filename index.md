@@ -41,7 +41,7 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 
 - Participated in the scientific research training project, using Python to do the identification of the aircraft system.
 
-- Conducted my graduation project in TUBS:　project name: 'Central loading experiments on cracking of glass surface bonded to an aluminum substrate'.
+- Conducted my graduation project in TUBS: project name: 'Central loading experiments on cracking of glass surface bonded to an aluminum substrate'.
 
 ***
 
