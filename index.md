@@ -12,7 +12,7 @@
 ## **Education**
 **Beihang University (BUAA)**　　　　　　　　　　　　　　　　　　　　　　　　　　Beijing, China
   Candidate for the Master’s degree in Fluid Mechanics　　　　　　　　    　　　　&ensp;09/2019 - Present
-- Overall grade: 91.58/100 ranked 4/46
+- Overall grade: 91.58/100 ranked 4/44
 - Second-class scholarship (2019 and 2020)
 
 **Technische Universität Braunschweig (TUBS)**　　　　　　　　　　　　Braunschweig, Germany
