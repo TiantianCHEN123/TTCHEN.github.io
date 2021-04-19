@@ -62,4 +62,4 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 ***
 
 ## **Publications**
--	Dynamic Flight Stability of Free-falling Maple Seeds in Autorotation. (The first version of the manuscript has been submitted to the *Bioinspiration & Biomimetics* and is being reviewed by reviewers.)
+-	Dynamic Flight Stability of Free-falling Maple Seeds in Autorotation. (The first version of the manuscript has been submitted and is being reviewed by reviewers.)
