@@ -33,33 +33,33 @@ Outstanding Undergraduate International Exchange Program funded by China Scholar
 
 　　1. The aerodynamics of maple and ash samaras　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&ensp;&ensp;&ensp;&ensp;2. The dynamic stability of maple samaras
 
-- Further taking a series of courses in fluid mechanics including advanced fluid mechanics, computational fluid mechanics, experimental fluid mechanics and various related experiments.  
+- Further taking a series of courses in fluid mechanics including advanced fluid mechanics, computational fluid mechanics, experimental fluid mechanics and various related experiments
 
 **Undergraduate Stage**
 
-- Have systematically studied aeronautics including fluid mechanics, solid mechanics, aircraft conceptual design and flight dynamics, and attended varied theoretical and experimental courses.
+- Participated in the scientific research training project, using Python to do the identification of the aircraft system
 
-- Participated in the scientific research training project, using Python to do the identification of the aircraft system.
-
-- Conducted the graduation project in TUBS - project name: 'Central loading experiments on cracking of glass surface bonded to an aluminum substrate'.
+- Conducted the graduation project in TUBS - project name: 'Central loading experiments on cracking of glass surface bonded to an aluminum substrate'
 
 ***
 
 ## **Skills and Activity**
 **Skills**
 
--	Language: Chinese (native), English (TOEFL: 103).
+-	Language: Chinese (native), English (TOEFL: 103)
 
 -	Software: 
 
-　　1. Basic software: proficient in MS Office, C++ and MATLAB; Python (used before).　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&ensp;&ensp;&ensp;&ensp;2. Professional software: CATIA, ICEM, Pointwise, Fluent, Tecplot and other necessary research 　　&ensp;&ensp;tools.
+　　1. Basic software: proficient in MS Office, C++ and MATLAB; Python (used before)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&ensp;&ensp;&ensp;&ensp;2. Professional software: CATIA, ICEM, Pointwise, Fluent, Tecplot and other necessary research 　　&ensp;&ensp;tools
 
--	Interests: traveling, swimming and reading.
+-	Interests: traveling, swimming and reading
 
 **Activity**
--	Volunteered for the orientation event in the first semester of the second year of postgraduate.
+- Participated in summer short-term exchange program at Florida Institute of Technology
+-	Participated in mutual assistance activity for language partners
+-	Participated in summer internship including: Shanghai Academy of Spaceflight Technology, Commercial Aircraft Corporation of China Ltd and so on
 
 ***
 
 ## **Publications**
--	Dynamic Flight Stability of Free-falling Maple Seeds in Autorotation. (The first version of the manuscript has been submitted and is being reviewed by reviewers.)
+-	Numerical Analysis of Dynamic Stability of Falling Maple Samaras (Preparing)
